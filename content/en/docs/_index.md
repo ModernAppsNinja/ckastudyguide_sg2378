@@ -1,6 +1,6 @@
 ---
-title: "ModernApps by VMware Learning Guide Template"
-linkTitle: "ModernApps by VMware Learning Guide Template"
+title: "Certified Kubernetes Administrator Study Guide"
+linkTitle: "CKA Study Guide"
 weight: 20
 menu:
   main:

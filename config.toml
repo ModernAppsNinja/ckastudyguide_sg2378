@@ -1,5 +1,5 @@
-baseURL = "https://modernappsninja.github.io/tanzustandardgettingstarted_ts5887"
-title = "Tanzu Standard Getting Started Guide"
+baseURL = "https://modernappsninja.github.io/ckastudyguide_sg2378"
+title = "Certified Kubernetes Administrator Study Guide"
 
 enableRobotsTXT = true
 
@@ -53,8 +53,8 @@ id = "UA-162817887-1"
 
 [languages]
 [languages.en]
-title = "Tanzu Standard Getting Started Guide"
-description = "Quick Start Guide for Getting Started with VMware Tanzu Standard"
+title = "Certified Kubernetes Administrator Study Guide"
+description = "This study guide aims to help learners prepare for the Certified Kubernetes Administrator(CKA) exam."
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -101,10 +101,10 @@ archived_version = false
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://modernappsninja.github.io/tanzustandardgettingstarted_ts5887/"
+url_latest_version = "https://modernappsninja.github.io/ckastudyguide_sg2378/"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/ModernAppsNinja/tanzustandardgettingstarted_ts5887/"
+github_repo = "https://github.com/ModernAppsNinja/ckastudyguide_sg2378/"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/ModernAppsNinja/modernappsninja.github.io"
 # The branch that will be referenced in the edit this page and create child page links
