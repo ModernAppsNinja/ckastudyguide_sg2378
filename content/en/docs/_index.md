@@ -6,15 +6,7 @@ menu:
   main:
     weight: 20
 ---
- 
-- [About the Learning Guide Template](#about-the-learning-guide-template)
-- [Formatting Reference](#formatting-reference)
-  - [Reference Guide](#reference-guide)
-  - [Source Template Documentation](#source-template-documentation)
-  - [Template Framework Documentation](#template-framework-documentation)
-- [How to create a new Learning Guide](#how-to-create-a-new-learning-guide)
-  - [Prerequisites](#prerequisites)
-  - [Instructions](#instructions)
+
 
 ### About This ModernApps Ninja Guide
 
