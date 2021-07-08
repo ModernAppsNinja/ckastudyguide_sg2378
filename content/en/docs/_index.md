@@ -8,7 +8,7 @@ menu:
 ---
 
 
-### About This ModernApps Ninja Guide
+### About This ModernApps Guide
 
 This study guide aims to help learners prepare for the Certified Kubernetes Administrator(CKA) exam.
 
